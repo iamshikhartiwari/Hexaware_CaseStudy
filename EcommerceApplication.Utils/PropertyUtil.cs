@@ -7,12 +7,8 @@ namespace DBUtils
         public static SqlConnection getPropertyString()
         {
             SqlConnection connection = new SqlConnection();
-            string connectionstring = "Server=localhost,1433;Database=Ecommerce;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True;";
-            connection.ConnectionString = connectionstring;
+            connection.ConnectionString = ConfigurationManager.ConnectionStrings["connectionString"].ConnectionString;
             return connection;
         }
-
-        
-
     }
 }
