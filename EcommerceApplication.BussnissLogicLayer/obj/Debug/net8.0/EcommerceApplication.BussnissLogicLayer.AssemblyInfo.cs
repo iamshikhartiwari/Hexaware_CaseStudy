@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcommerceApplication.BussnissLogicLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680707d5ce9b881306370cd85d14cedf58e8699f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcommerceApplication.BussnissLogicLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcommerceApplication.BussnissLogicLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
