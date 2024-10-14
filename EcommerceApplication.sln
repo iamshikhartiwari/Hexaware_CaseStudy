@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceApplication.Bussni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceApplication.Utils", "EcommerceApplication.Utils\EcommerceApplication.Utils.csproj", "{A8922128-8A0F-4E0A-9386-65EAAE4557FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceApplication.Test", "EcommerceApplication.Test\EcommerceApplication.Test.csproj", "{C2076B3B-D41A-4E84-BD77-4CBAF74F6EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceApplication.ExceptionHandling", "EcommerceApplication.ExceptionHandling\EcommerceApplication.ExceptionHandling.csproj", "{34A36EBC-3A97-4C96-A865-07F95147A7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{A8922128-8A0F-4E0A-9386-65EAAE4557FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8922128-8A0F-4E0A-9386-65EAAE4557FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8922128-8A0F-4E0A-9386-65EAAE4557FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2076B3B-D41A-4E84-BD77-4CBAF74F6EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2076B3B-D41A-4E84-BD77-4CBAF74F6EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2076B3B-D41A-4E84-BD77-4CBAF74F6EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2076B3B-D41A-4E84-BD77-4CBAF74F6EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A36EBC-3A97-4C96-A865-07F95147A7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A36EBC-3A97-4C96-A865-07F95147A7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A36EBC-3A97-4C96-A865-07F95147A7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A36EBC-3A97-4C96-A865-07F95147A7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
