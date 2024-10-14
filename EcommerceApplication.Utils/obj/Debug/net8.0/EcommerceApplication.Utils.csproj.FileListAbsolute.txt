@@ -1,0 +1,12 @@
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/bin/Debug/net8.0/EcommerceApplication.Utils.deps.json
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/bin/Debug/net8.0/EcommerceApplication.Utils.dll
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/bin/Debug/net8.0/EcommerceApplication.Utils.pdb
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.csproj.AssemblyReference.cache
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.AssemblyInfoInputs.cache
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.AssemblyInfo.cs
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.csproj.CoreCompileInputs.cache
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.dll
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/refint/EcommerceApplication.Utils.dll
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/EcommerceApplication.Utils.pdb
+/Users/shikhartiwari/RiderProjects/EcommerceApplication/EcommerceApplication.Utils/obj/Debug/net8.0/ref/EcommerceApplication.Utils.dll
